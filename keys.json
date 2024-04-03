@@ -1,0 +1,18 @@
+{
+  "type": "service_account",
+  "project_id": "chatbottwilio-416313",
+  "private_key_id": "f6bca5590113e315ccbf23228c71033316f938b7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDiA+e0RZmpwH2A\nNx7MwhyMrXVKJeQWF1hhgk6GtyKCJlcVtMUXDud8OWiRZRTZUH4LGg1JuEFLKN/W\nHZs5YRnv7ngxp+k9wZ/UvwAnidP+735aQmcaLiT3mexXh3Hcgp2z5ZvfFAIl/ikD\nsVWVGjLmKhlcR2ihbDCAI3+8KmdB8dck47YEYglW6NQwrz7fFdgdnljhfxKWPdoR\nVhevhaf2Z6TLAXzDcfY3jmF/nUBWQzQ/cavfa1VQnVYmQZCLftdR60Cv10sH8mpg\nQXRZLRC9cnaYLaA93O5FchPe5kAze7qraE/tMffDsdbjTIny7KA/7zHu2AkNEqn9\nJYSPU/A1AgMBAAECggEAGa8W7BoCsdMxj9nzspIWe3gUvZXbuxTxErejo9R44/Bm\ncg2GXi3v6WJ+uxMREPcAM9PEkc2SAfAFq8fWhWk+8NCZMQ9jRoTT3HHOGzAi+rQN\nmEU2gTegNND1libKriPbtv9PPMUBz353+7bxwk1lXlmHY0CsJ7frNQyTrfbloA0c\nWchuxAudycoD/qC7eASLWVpLNoruXyGyIHdfcuV89y4qn+UEq4C+4Ivia/HPgD81\nGeitNe698JyD5W/FRtqgJptDpEQpHyWXTu2krzlLTU3InMAjmMxdSsWn+zhqFq4T\nQA/H/lR72M31iLfXBUHwzxpMJUZ3tfouEQF2YGYSWwKBgQDws4TTL9zLbNkR3gtz\nhvC3S1ZtsgDfYGxYOaQRdQxI7ddk6eQz2sHFgMV3KrRpIKMHS5vAl9hWu+FL0YBR\nuJ1FDSpJoXeWW7VIF89j5LOYJGbYzX4piGjrhvesvxweBZlsdNVd3YMtD9PCUKCs\nY+1RPeh9B86W6QU9SopQ/NsS1wKBgQDwYW23fECRg9cVd+2BhIV3PbY48eycs6RU\nuJ8R7Gm8XsBqBQwlrMcAZDFCMocQ2kUOM3PG/n8uqHMU1X8r3LuNuSWafG3JJixP\nNYY857Jb7TUBaAGfaOLzFP/IQIRlNIecvFs5NiXkNyGP3b+WgRgooL6HrlmxPHHL\nh258KFO/0wKBgQCLiueUL4lHfeESVLI61Z40BT8j9TBAT/w/4ZrWbA8lMI3Q+S/N\nSCNSRuczwNQ6pisdjZ3MN7u5/M4OUHSd6/NxFsLPUQataplcJEGdXfcoWuItCmT7\n2xNIiESKJ3k7hm99yvXvpv3nX+eaHXgouP3aPZPM+HuyTYE2GUK61PyEnQKBgFDd\nhcpnK1WIk6+uM6ERktClWwrXH/ErYcn6fdDKxltPSM2huw9li2CvU/7f/p4Fv5ti\nZb142hI5KtXEaM65qAKqWWMaHti/VcKjz+/nRhI0v1MkyP72ivqZgt68DY36WPC6\nULnzZFXc0haS06Pu89CfGtmMJrJAEkwU2G8+JcZvAoGBAIILuLaiVb2V98kiY8BQ\nFvcjdg3QavtwDn+UNQ43w1RTjVTPIEdtN1D69Fubkz6hkc31vmB13y1+HDk9pw83\nWZX9dQSIWZw1s+KCE0p3prcOjxcIHBOmRtIhxjAmE8rQ9hFHNr7xj8VucIaCR98B\nmsdM9q7Fbz3XGGZObV3Pll/c\n-----END PRIVATE KEY-----\n",
+  "client_email": "saocarlosdialogflow@chatbottwilio-416313.iam.gserviceaccount.com",
+  "client_id": "105147274842795827097",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/saocarlosdialogflow%40chatbottwilio-416313.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
+
+
+  
+
+ 
